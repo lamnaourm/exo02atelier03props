@@ -1,6 +1,8 @@
 
 function Liste({elements}) {
-    return ;
+    return <ul>
+        
+    </ul>;
 }
 
 export default Liste;
